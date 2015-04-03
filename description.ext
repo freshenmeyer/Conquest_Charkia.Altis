@@ -1,0 +1,33 @@
+respawn = "base";
+respawndelay = "10";
+respawnTemplates[] = {"MenuInventory","MenuPosition"};
+disabledAI=1;
+author="Freshenmeyer";
+OnLoadName = "Conquest Charkia";
+OnLoadMission = "Take control! - www.shizweak.es Mumble: shizweak.es";
+loadScreen = "images\loadScreen.paa";
+
+class Header
+{
+	gameType = SC; // MP mission type
+};
+
+//Respawn Templates
+class CfgRespawnInventory
+{
+   #include "scripts\Roles.hpp"
+};
+
+#include "CHVD\dialog.hpp"
+#include "SRS\GUI\SRSdialogs.hpp"
+
+class RscTitles {
+    #include "SRS\GUI\SRSprogressBar.hpp"
+};
+
+class CfgFunctions
+{
+	#include "CHVD\CfgFunctions.hpp"
+    #include "SRS\CfgFunctions.hpp"
+
+};
