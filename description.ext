@@ -1,6 +1,6 @@
 respawn = "base";
 respawndelay = "10";
-respawnTemplates[] = {"MenuInventory","MenuPosition"};
+respawnTemplates[] = {"MenuInventory","MenuPosition","Tickets"};
 disabledAI=1;
 author="Freshenmeyer";
 OnLoadName = "Conquest Charkia";

@@ -560,7 +560,7 @@ switch (_pClass) do
 		[_crate,((magazineCargo _crate) + _handGrenades + _mgAmmo + _pistolAmmo)] call BIS_fnc_addVirtualMagazineCargo;
 		[_crate,((weaponCargo _crate) + _machineGuns + _handGunsLight)] call BIS_fnc_addVirtualWeaponCargo;
 		};
-			case "B_soldier_LAT_F": // BLUEFOR AT Infantry
+			case "B_soldier_AT_F": // BLUEFOR AT Infantry
 	   {
 		[_crate,((backpackCargo _crate) + _mediumBackpacks + _largeBackpacks)] call BIS_fnc_addVirtualBackpackCargo;
 		[_crate,((itemCargo _crate) + _availableHats + _availableHelmets + _availableGlasses + _lightVests + _heavyVests + _closeOptics + _pistolOptics + _bUniform)] call BIS_fnc_addVirtualItemCargo;

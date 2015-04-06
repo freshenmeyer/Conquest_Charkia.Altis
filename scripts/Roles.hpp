@@ -1127,15 +1127,15 @@ class Officer_EST
            "1Rnd_HE_Grenade_shell",
            "1Rnd_HE_Grenade_shell",
            "1Rnd_HE_Grenade_shell",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
            "16Rnd_9x21_Mag",
            "16Rnd_9x21_Mag",
            "16Rnd_9x21_Mag",
@@ -1180,15 +1180,15 @@ class TeamLeader_EST
            "1Rnd_HE_Grenade_shell",
            "1Rnd_HE_Grenade_shell",
            "1Rnd_HE_Grenade_shell",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
-           "30Rnd_65x39_caseless_mag",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
+           "30Rnd_65x39_caseless_green",
            "16Rnd_9x21_Mag",
            "16Rnd_9x21_Mag",
            "16Rnd_9x21_Mag",
@@ -1217,10 +1217,7 @@ class TeamLeader_EST
 
 // For future use
 
-// engineer icon 	"\A3\ui_f\data\igui\cfg\actions\repair_ca.paa"
 // ammo carrier     "\A3\ui_f\data\igui\cfg\actions\reammo_ca.paa"
 // uav pilot/driver    "\A3\ui_f\data\gui\cfg\hints\icon_text\b_uav_ca.paa"             
 // transport pilot     "\A3\ui_f\data\gui\cfg\CommunicationMenu\transport_ca.paa"
 // parachute / paratrooper	"\ca\air\data\map_ico\icomap_Para_CA.paa";
-
-//	icon = "iconHelicopter";		

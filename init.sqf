@@ -7,6 +7,9 @@ enableSaving [false, false];
 // Kill ticker
 [] execVM "scripts\killTicker.sqf";
 
+// Cap rewards
+[] execVM "rewards\rewardinit.sqf";
+
 // Briefing
 [] execVM "scripts\briefing.sqf";
 
